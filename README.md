@@ -3,6 +3,8 @@ This is a basic Django-Blog App that may serve as the basis for other websites.
 
 ## Description
 Best practices would be to create a virtual environmnet, clone the repository, and run `pip install -r requirements.txt` to grab all the requirements. 
+You can use virtualenvwrapper:
+https://virtualenvwrapper.readthedocs.io/en/latest/install.html
 
 To run the web app locally, go to the main project file and run `py manage.py runserver` on Windows or `python3 manage.py runserver` on Mac and Linux. Then go to 127.0.0.1 in your browser of choice. 
 
