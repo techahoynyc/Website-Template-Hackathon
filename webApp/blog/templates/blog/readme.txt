@@ -1,0 +1,1 @@
+If we add templates, be sure to add the apps config into the settings.py of the main project. 

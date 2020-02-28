@@ -1,0 +1,6 @@
+mySite is the virtualenv
+To access it, simply type workon mySite in the CMD
+
+then go to the webApp on the desktop (where this is) and open it up in code.
+
+woohoo success!
